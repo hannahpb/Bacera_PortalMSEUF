@@ -1,0 +1,172 @@
+.navbar {
+    margin-bottom: 0px;
+}
+
+.nav-top {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    background-color: #680000;
+    border-bottom: 15px solid #f65503;
+    line-height: 15px;
+}
+
+.navbar-nav-top li a {
+    color: #ffffff !important;
+    background-color: #680000;
+    text-align: center;
+}
+
+.navbar-nav-top li a span {
+    font-size: 30px;
+    text-align: center;
+}
+
+.navbar-nav-top li a:hover {
+    color: #fc5252 !important;
+    background-color: #680000;
+}
+
+.navbar-nav-top li a:focus {
+    color: #fc5252 !important;
+    background-color: #680000;
+}
+
+.navbar-nav-top li a:active {
+    color: #fc5252 !important;
+    background-color: #680000;
+}
+
+.navbar-header {
+    color: #ffffff;
+}
+
+.navbar-nav-menu li a span {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.navbar-nav-menu li a {
+    color: #cecece;
+    text-align: center;
+}
+
+.navbar-nav-menu li a:hover {
+    background: #9a0101;
+}
+
+.navbar-text {
+    color: #ffffff;
+}
+
+.navbar-module-menu {
+    color: #3a0000;
+}
+
+.footer-new {
+    background-color: #680000;
+    background-repeat: no-repeat;
+    text-align: right;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-main-menu {
+    background-color: #3a0000;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+a {
+    color: #89220f;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #b42e16;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+
+/* NAV PILLS ACTIVE BACKGROUND*/
+.nav-pills-maroon li a {
+    vertical-align: middle;
+    padding: 10px 10px 10px 10px;
+    background-color: #680000;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.nav-pills-maroon li span:hover, .nav-pills-maroon li span:focus {
+    background-color: red;
+    color: #ffffff;
+}
+
+.nav-pills-maroon li a:hover, .nav-pills-maroon li a:focus {
+    background-color: red;
+    color: #ffffff;
+}
+
+.footer-new {
+    background-color: #680000;
+    background-repeat: no-repeat;
+    text-align: right;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.common-medium-title {
+    margin: 5px 5px 20px 10px;
+    padding: 5px 5px 5px 0px;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid #333333;
+}
+
+.common-title {
+    padding: 20px 20px 0px 5px;
+    border-bottom: 2px solid #680000;
+}
+
+.common-title h1 {
+    font-size: 35px;
+    color: #680000;
+    font-weight: bolder;
+    padding: 0px;
+    margin: 5px;
+}
+
+.common-subtitle {
+    color: #680000;
+    font-size: 20px;
+    padding: 0px 0px 0px 5px;
+}
+
+.common-small-title {
+    padding: 20px 20px 0px 5px;
+    border-bottom: 2px solid #3e3e3e;
+    font-size: 15px;
+    color: #333333;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+
+.common-calendar-sched-content {
+    font-size: 14px;
+    color: #333333;
+    text-align: left;
+    margin: 0px;
+    padding-left: 10px;
+}
